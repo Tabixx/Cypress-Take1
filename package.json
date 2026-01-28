@@ -1,0 +1,24 @@
+{
+  "name": "cypress-take1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Tabixx/Cypress-Take1#readme",
+  "bugs": {
+    "url": "https://github.com/Tabixx/Cypress-Take1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tabixx/Cypress-Take1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.9.0",
+    "@faker-js/faker": "^10.2.0"
+  }
+}
